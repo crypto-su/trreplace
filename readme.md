@@ -13,7 +13,7 @@ echo $regex->searchAndReplace("tatil'e Mersin e gittim", 'mersin', 'hatay').PHP_
 
 ```
 
-##Output
+## Output
 
 ```bash
 samsun'un samsun'a faydası
